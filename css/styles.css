@@ -55,4 +55,49 @@ table {
 .container {
     width: 1200px;
     margin: 0 auto;
+    padding: 15px 25px;
+    border: 12px solid green;
+    box-sizing: border-box;
+    background-color: chartreuse;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: blueviolet;
+}
+
+#scroll {
+    color: coral;
+}
+
+.whistle {
+    border: 15px solid hotpink;
+    font-size: 15px;
+}
+
+.whistle.jelly {
+    background-color: deepskyblue;
+}
+
+.whistle.lemon {
+    background-color: cyan;
+}
+
+.dream {
+    width: 900px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    background-color: magenta;
+    color: royalblue;
+}
+
+p {
+    font-size: 20px;
 }
